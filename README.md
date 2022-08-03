@@ -28,3 +28,4 @@
 4. 运行脚本
 5. 在 Hepta 中选择导入 Obsidian 文件
 ![image](https://jiangzilong-image.oss-cn-beijing.aliyuncs.com/uPic/Company/20220729202244.png)
+6. 选择前面导出的 md 文件即可
